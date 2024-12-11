@@ -32,7 +32,7 @@ public class MainApp {
                 player.restoreMemento(memento);
             }
 
-            Thread.sleep(1000);
+            //Thread.sleep(1000);
             System.out.println("");
         }
 
